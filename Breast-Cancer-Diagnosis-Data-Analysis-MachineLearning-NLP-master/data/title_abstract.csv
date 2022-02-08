@@ -1,0 +1,276 @@
+abstract_TFIDF_score,abstract_words,titel_words,title_TFIDF score
+0.10708031908302007,tissue,rapid,0.12832257548310885
+0.10339125706097288,tissue diagnosis,staining imaging subnuclear features differentiate,0.12832257548310885
+0.07530712418817717,microscopy,tissues point care,0.12832257548310885
+0.06884269772586668,diagnosis,point care setting,0.12832257548310885
+0.06106454196544217,histopathology clinical standard tissue,rapid staining imaging subnuclear,0.12832257548310885
+0.06106454196544217,enable automated tissue diagnosis,staining imaging subnuclear features,0.12832257548310885
+0.06106454196544217,diagnosis requires tissue processing laboratory,imaging subnuclear features differentiate,0.12832257548310885
+0.06106454196544217,tissue diagnosis requires tissue processing,subnuclear features differentiate malignant,0.12832257548310885
+0.06106454196544217,standard tissue diagnosis requires tissue,features differentiate malignant benign,0.12832257548310885
+0.06106454196544217,clinical standard tissue diagnosis requires,differentiate malignant benign breast,0.12832257548310885
+0.06106454196544217,histopathology clinical standard tissue diagnosis,malignant benign breast tissues,0.12832257548310885
+0.06106454196544217,features order enable automated,benign breast tissues point,0.12832257548310885
+0.06106454196544217,order enable automated tissue,breast tissues point care,0.12832257548310885
+0.06106454196544217,tissue processing laboratory personnel infrastructure,tissues point care setting,0.12832257548310885
+0.06106454196544217,tissue features order enable,rapid staining imaging subnuclear features,0.12832257548310885
+0.06106454196544217,breast tissue features order,imaging subnuclear features differentiate malignant,0.12832257548310885
+0.06106454196544217,quantify breast tissue features,benign breast tissues,0.12832257548310885
+0.06106454196544217,segment quantify breast tissue,subnuclear features differentiate malignant benign,0.12832257548310885
+0.06106454196544217,strategy segment quantify breast,features differentiate malignant benign breast,0.12832257548310885
+0.06106454196544217,requires tissue processing laboratory personnel,differentiate malignant benign breast tissues,0.12832257548310885
+0.06106454196544217,laboratory personnel infrastructure highly trained,malignant benign breast tissues point,0.12832257548310885
+0.06106454196544217,processing laboratory personnel infrastructure highly,benign breast tissues point care,0.12832257548310885
+0.06106454196544217,stains develop strategy segment,breast tissues point care setting,0.12832257548310885
+0.06106454196544217,personnel infrastructure highly trained pathologist,rapid staining imaging subnuclear features differentiate,0.12832257548310885
+0.06106454196544217,infrastructure highly trained pathologist diagnose,staining imaging subnuclear features differentiate malignant,0.12832257548310885
+0.06106454196544217,highly trained pathologist diagnose tissue,imaging subnuclear features differentiate malignant benign,0.12832257548310885
+0.06106454196544217,trained pathologist diagnose tissue optical,subnuclear features differentiate malignant benign breast,0.12832257548310885
+0.06106454196544217,pathologist diagnose tissue optical microscopy,features differentiate malignant benign breast tissues,0.12832257548310885
+0.06106454196544217,diagnose tissue optical microscopy provide,differentiate malignant benign breast tissues point,0.12832257548310885
+0.06106454196544217,tissue optical microscopy provide real,malignant benign breast tissues point care,0.12832257548310885
+0.06106454196544217,optical microscopy provide real time,breast tissues point,0.12832257548310885
+0.06106454196544217,microscopy provide real time diagnosis,malignant benign breast,0.12832257548310885
+0.06106454196544217,provide real time diagnosis used,staining,0.12832257548310885
+0.06106454196544217,real time diagnosis used inform,features differentiate,0.12832257548310885
+0.06106454196544217,time diagnosis used inform management,imaging,0.12832257548310885
+0.06106454196544217,diagnosis used inform management breast,subnuclear,0.12832257548310885
+0.06106454196544217,develop strategy segment quantify,features,0.12832257548310885
+0.06106454196544217,vital fluorescent stains develop,differentiate,0.12832257548310885
+0.06106454196544217,fluorescent stains develop strategy,tissues,0.12832257548310885
+0.06106454196544217,real time diagnosis used,point,0.12832257548310885
+0.06106454196544217,requires tissue processing laboratory,care,0.12832257548310885
+0.06106454196544217,tissue processing laboratory personnel,setting,0.12832257548310885
+0.06106454196544217,processing laboratory personnel infrastructure,rapid staining,0.12832257548310885
+0.06106454196544217,laboratory personnel infrastructure highly,staining imaging,0.12832257548310885
+0.06106454196544217,personnel infrastructure highly trained,imaging subnuclear,0.12832257548310885
+0.06106454196544217,infrastructure highly trained pathologist,differentiate malignant benign,0.12832257548310885
+0.06106454196544217,highly trained pathologist diagnose,subnuclear features,0.12832257548310885
+0.06106454196544217,trained pathologist diagnose tissue,differentiate malignant,0.12832257548310885
+0.06106454196544217,pathologist diagnose tissue optical,malignant benign,0.12832257548310885
+0.06106454196544217,diagnose tissue optical microscopy,benign breast,0.12832257548310885
+0.06106454196544217,tissue optical microscopy provide,breast tissues,0.12832257548310885
+0.06106454196544217,optical microscopy provide real,tissues point,0.12832257548310885
+0.06106454196544217,microscopy provide real time,point care,0.12832257548310885
+0.06106454196544217,provide real time diagnosis,care setting,0.12832257548310885
+0.06106454196544217,time diagnosis used inform,rapid staining imaging,0.12832257548310885
+0.06106454196544217,inform management breast cancer goal,staining imaging subnuclear,0.12832257548310885
+0.06106454196544217,diagnosis used inform management,imaging subnuclear features,0.12832257548310885
+0.06106454196544217,used inform management breast,subnuclear features differentiate,0.12832257548310885
+0.06106454196544217,inform management breast cancer,features differentiate malignant,0.12832257548310885
+0.06106454196544217,management breast cancer goal,benign breast tissues point care setting,0.12832257548310885
+0.06106454196544217,breast cancer goal work,benign,0.07725913815923244
+0.06106454196544217,cancer goal work obtain,malignant,0.06893497661739399
+0.06106454196544217,goal work obtain images,breast,0.03574901191028775
+0.06106454196544217,work obtain images tissue,0,0.0
+0.06106454196544217,obtain images tissue morphology,0,0.0
+0.06106454196544217,images tissue morphology fluorescence,0,0.0
+0.06106454196544217,tissue morphology fluorescence microscopy,0,0.0
+0.06106454196544217,morphology fluorescence microscopy vital,0,0.0
+0.06106454196544217,fluorescence microscopy vital fluorescent,0,0.0
+0.06106454196544217,microscopy vital fluorescent stains,0,0.0
+0.06106454196544217,used inform management breast cancer,0,0.0
+0.06106454196544217,cancer goal work obtain images,0,0.0
+0.06106454196544217,management breast cancer goal work,0,0.0
+0.06106454196544217,work obtain images tissue morphology fluorescence,0,0.0
+0.06106454196544217,diagnose tissue optical microscopy provide real,0,0.0
+0.06106454196544217,tissue optical microscopy provide real time,0,0.0
+0.06106454196544217,optical microscopy provide real time diagnosis,0,0.0
+0.06106454196544217,microscopy provide real time diagnosis used,0,0.0
+0.06106454196544217,provide real time diagnosis used inform,0,0.0
+0.06106454196544217,real time diagnosis used inform management,0,0.0
+0.06106454196544217,time diagnosis used inform management breast,0,0.0
+0.06106454196544217,diagnosis used inform management breast cancer,0,0.0
+0.06106454196544217,used inform management breast cancer goal,0,0.0
+0.06106454196544217,inform management breast cancer goal work,0,0.0
+0.06106454196544217,management breast cancer goal work obtain,0,0.0
+0.06106454196544217,breast cancer goal work obtain images,0,0.0
+0.06106454196544217,cancer goal work obtain images tissue,0,0.0
+0.06106454196544217,goal work obtain images tissue morphology,0,0.0
+0.06106454196544217,obtain images tissue morphology fluorescence microscopy,0,0.0
+0.06106454196544217,trained pathologist diagnose tissue optical microscopy,0,0.0
+0.06106454196544217,images tissue morphology fluorescence microscopy vital,0,0.0
+0.06106454196544217,tissue morphology fluorescence microscopy vital fluorescent,0,0.0
+0.06106454196544217,morphology fluorescence microscopy vital fluorescent stains,0,0.0
+0.06106454196544217,fluorescence microscopy vital fluorescent stains develop,0,0.0
+0.06106454196544217,microscopy vital fluorescent stains develop strategy,0,0.0
+0.06106454196544217,vital fluorescent stains develop strategy segment,0,0.0
+0.06106454196544217,fluorescent stains develop strategy segment quantify,0,0.0
+0.06106454196544217,stains develop strategy segment quantify breast,0,0.0
+0.06106454196544217,develop strategy segment quantify breast tissue,0,0.0
+0.06106454196544217,strategy segment quantify breast tissue features,0,0.0
+0.06106454196544217,segment quantify breast tissue features order,0,0.0
+0.06106454196544217,quantify breast tissue features order enable,0,0.0
+0.06106454196544217,breast tissue features order enable automated,0,0.0
+0.06106454196544217,tissue features order enable automated tissue,0,0.0
+0.06106454196544217,pathologist diagnose tissue optical microscopy provide,0,0.0
+0.06106454196544217,highly trained pathologist diagnose tissue optical,0,0.0
+0.06106454196544217,breast cancer goal work obtain,0,0.0
+0.06106454196544217,segment quantify breast tissue features,0,0.0
+0.06106454196544217,tissue diagnosis requires tissue,0,0.0
+0.06106454196544217,goal work obtain images tissue,0,0.0
+0.06106454196544217,work obtain images tissue morphology,0,0.0
+0.06106454196544217,obtain images tissue morphology fluorescence,0,0.0
+0.06106454196544217,images tissue morphology fluorescence microscopy,0,0.0
+0.06106454196544217,tissue morphology fluorescence microscopy vital,0,0.0
+0.06106454196544217,morphology fluorescence microscopy vital fluorescent,0,0.0
+0.06106454196544217,fluorescence microscopy vital fluorescent stains,0,0.0
+0.06106454196544217,microscopy vital fluorescent stains develop,0,0.0
+0.06106454196544217,vital fluorescent stains develop strategy,0,0.0
+0.06106454196544217,fluorescent stains develop strategy segment,0,0.0
+0.06106454196544217,stains develop strategy segment quantify,0,0.0
+0.06106454196544217,develop strategy segment quantify breast,0,0.0
+0.06106454196544217,strategy segment quantify breast tissue,0,0.0
+0.06106454196544217,quantify breast tissue features order,0,0.0
+0.06106454196544217,infrastructure highly trained pathologist diagnose tissue,0,0.0
+0.06106454196544217,breast tissue features order enable,0,0.0
+0.06106454196544217,tissue features order enable automated,0,0.0
+0.06106454196544217,features order enable automated tissue,0,0.0
+0.06106454196544217,order enable automated tissue diagnosis,0,0.0
+0.06106454196544217,histopathology clinical standard tissue diagnosis requires,0,0.0
+0.06106454196544217,clinical standard tissue diagnosis requires tissue,0,0.0
+0.06106454196544217,standard tissue diagnosis requires tissue processing,0,0.0
+0.06106454196544217,tissue diagnosis requires tissue processing laboratory,0,0.0
+0.06106454196544217,diagnosis requires tissue processing laboratory personnel,0,0.0
+0.06106454196544217,requires tissue processing laboratory personnel infrastructure,0,0.0
+0.06106454196544217,tissue processing laboratory personnel infrastructure highly,0,0.0
+0.06106454196544217,processing laboratory personnel infrastructure highly trained,0,0.0
+0.06106454196544217,laboratory personnel infrastructure highly trained pathologist,0,0.0
+0.06106454196544217,personnel infrastructure highly trained pathologist diagnose,0,0.0
+0.06106454196544217,diagnosis requires tissue processing,0,0.0
+0.06106454196544217,features order enable automated tissue diagnosis,0,0.0
+0.06106454196544217,standard tissue diagnosis requires,0,0.0
+0.06106454196544217,optical microscopy,0,0.0
+0.06106454196544217,provide real,0,0.0
+0.06106454196544217,real time,0,0.0
+0.06106454196544217,time diagnosis,0,0.0
+0.06106454196544217,diagnosis used,0,0.0
+0.06106454196544217,used inform,0,0.0
+0.06106454196544217,inform management,0,0.0
+0.06106454196544217,management breast,0,0.0
+0.06106454196544217,cancer goal,0,0.0
+0.06106454196544217,goal work,0,0.0
+0.06106454196544217,work obtain,0,0.0
+0.06106454196544217,obtain images,0,0.0
+0.06106454196544217,images tissue,0,0.0
+0.06106454196544217,clinical standard tissue diagnosis,0,0.0
+0.06106454196544217,morphology fluorescence,0,0.0
+0.06106454196544217,fluorescence microscopy,0,0.0
+0.06106454196544217,microscopy vital,0,0.0
+0.06106454196544217,vital fluorescent,0,0.0
+0.06106454196544217,fluorescent stains,0,0.0
+0.06106454196544217,stains develop,0,0.0
+0.06106454196544217,develop strategy,0,0.0
+0.06106454196544217,strategy segment,0,0.0
+0.06106454196544217,segment quantify,0,0.0
+0.06106454196544217,quantify breast,0,0.0
+0.06106454196544217,microscopy provide,0,0.0
+0.06106454196544217,tissue optical,0,0.0
+0.06106454196544217,features order,0,0.0
+0.06106454196544217,diagnose tissue,0,0.0
+0.06106454196544217,laboratory,0,0.0
+0.06106454196544217,personnel,0,0.0
+0.06106454196544217,infrastructure,0,0.0
+0.06106454196544217,pathologist,0,0.0
+0.06106454196544217,inform,0,0.0
+0.06106454196544217,vital,0,0.0
+0.06106454196544217,strategy,0,0.0
+0.06106454196544217,segment,0,0.0
+0.06106454196544217,quantify,0,0.0
+0.06106454196544217,enable,0,0.0
+0.06106454196544217,histopathology clinical,0,0.0
+0.06106454196544217,clinical standard,0,0.0
+0.06106454196544217,standard tissue,0,0.0
+0.06106454196544217,diagnosis requires,0,0.0
+0.06106454196544217,requires tissue,0,0.0
+0.06106454196544217,tissue processing,0,0.0
+0.06106454196544217,processing laboratory,0,0.0
+0.06106454196544217,laboratory personnel,0,0.0
+0.06106454196544217,personnel infrastructure,0,0.0
+0.06106454196544217,infrastructure highly,0,0.0
+0.06106454196544217,highly trained,0,0.0
+0.06106454196544217,trained pathologist,0,0.0
+0.06106454196544217,pathologist diagnose,0,0.0
+0.06106454196544217,tissue features,0,0.0
+0.06106454196544217,tissue morphology,0,0.0
+0.06106454196544217,order enable,0,0.0
+0.06106454196544217,enable automated,0,0.0
+0.06106454196544217,management breast cancer,0,0.0
+0.06106454196544217,breast cancer goal,0,0.0
+0.06106454196544217,cancer goal work,0,0.0
+0.06106454196544217,goal work obtain,0,0.0
+0.06106454196544217,work obtain images,0,0.0
+0.06106454196544217,obtain images tissue,0,0.0
+0.06106454196544217,images tissue morphology,0,0.0
+0.06106454196544217,tissue morphology fluorescence,0,0.0
+0.06106454196544217,morphology fluorescence microscopy,0,0.0
+0.06106454196544217,fluorescence microscopy vital,0,0.0
+0.06106454196544217,microscopy vital fluorescent,0,0.0
+0.06106454196544217,fluorescent stains develop,0,0.0
+0.06106454196544217,used inform management,0,0.0
+0.06106454196544217,stains develop strategy,0,0.0
+0.06106454196544217,develop strategy segment,0,0.0
+0.06106454196544217,strategy segment quantify,0,0.0
+0.06106454196544217,segment quantify breast,0,0.0
+0.06106454196544217,quantify breast tissue,0,0.0
+0.06106454196544217,breast tissue features,0,0.0
+0.06106454196544217,tissue features order,0,0.0
+0.06106454196544217,features order enable,0,0.0
+0.06106454196544217,order enable automated,0,0.0
+0.06106454196544217,enable automated tissue,0,0.0
+0.06106454196544217,automated tissue diagnosis,0,0.0
+0.06106454196544217,inform management breast,0,0.0
+0.06106454196544217,vital fluorescent stains,0,0.0
+0.06106454196544217,diagnosis used inform,0,0.0
+0.06106454196544217,personnel infrastructure highly,0,0.0
+0.06106454196544217,automated tissue,0,0.0
+0.06106454196544217,histopathology clinical standard,0,0.0
+0.06106454196544217,clinical standard tissue,0,0.0
+0.06106454196544217,time diagnosis used,0,0.0
+0.06106454196544217,tissue diagnosis requires,0,0.0
+0.06106454196544217,diagnosis requires tissue,0,0.0
+0.06106454196544217,requires tissue processing,0,0.0
+0.06106454196544217,tissue processing laboratory,0,0.0
+0.06106454196544217,processing laboratory personnel,0,0.0
+0.06106454196544217,laboratory personnel infrastructure,0,0.0
+0.06106454196544217,standard tissue diagnosis,0,0.0
+0.06106454196544217,infrastructure highly trained,0,0.0
+0.06106454196544217,diagnose tissue optical,0,0.0
+0.06106454196544217,highly trained pathologist,0,0.0
+0.06106454196544217,provide real time,0,0.0
+0.06106454196544217,optical microscopy provide,0,0.0
+0.06106454196544217,tissue optical microscopy,0,0.0
+0.06106454196544217,real time diagnosis,0,0.0
+0.06106454196544217,microscopy provide real,0,0.0
+0.06106454196544217,pathologist diagnose tissue,0,0.0
+0.06106454196544217,trained pathologist diagnose,0,0.0
+0.05494279545745885,processing,0,0.0
+0.05494279545745885,order,0,0.0
+0.05494279545745885,develop,0,0.0
+0.05494279545745885,stains,0,0.0
+0.05494279545745885,fluorescence,0,0.0
+0.05494279545745885,highly,0,0.0
+0.05494279545745885,trained,0,0.0
+0.05494279545745885,requires,0,0.0
+0.05494279545745885,work,0,0.0
+0.05494279545745885,goal,0,0.0
+0.05494279545745885,diagnose,0,0.0
+0.05494279545745885,real,0,0.0
+0.05494279545745885,fluorescent,0,0.0
+0.05059934718725335,time,0,0.0
+0.05059934718725335,histopathology,0,0.0
+0.05059934718725335,management,0,0.0
+0.05059934718725335,obtain,0,0.0
+0.044477600679270035,provide,0,0.0
+0.044477600679270035,optical,0,0.0
+0.044477600679270035,morphology,0,0.0
+0.044477600679270035,breast tissue,0,0.0
+0.044477600679270035,clinical,0,0.0
+0.044477600679270035,standard,0,0.0
+0.03835585417128671,automated,0,0.0
+0.035326111032766644,used,0,0.0
+0.035326111032766644,images,0,0.0
+0.031685025894602245,breast cancer,0,0.0
+0.029668957630875698,cancer,0,0.0
+0.02812174079969016,breast,0,0.0
+0.027890659393097886,features,0,0.0

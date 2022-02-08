@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Breast Cancer Diagnosis Prediction</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" type="text/css" href="jumbotron.css"> -->
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='mlstyles.css') }}">
+</head>
+
+<body>
+  
+    <div class="jumbotron text-center">
+     
+      <h1>Predict Patient's Breast Cancer Type</h1>
+    </div>
+
+   <div class="container"> 
+    
+     <form action="/start-over" method="GET">
+        <input type="submit" value="Start over"> </form>
+    
+
+    <form action="/get-patient-data" method="POST">
+        
+      <br>
+        <label for="radius_mean">radius_mean </label>
+        <input type="float" name="radius_mean" id="radius_mean">
+        
+        <br><br>
+
+        <label for="perimeter_mean">perimeter_mean</label>
+        <input type="float" name="perimeter_mean" id="perimeter_mean">
+        
+        <br><br>
+
+        <label for="area_mean">area_mean</label>
+        <input type="float" name="area_mean" id="area_mean">
+        
+        <br><br>
+        <label for="concavity_mean">concavity_mean</label>
+        <input type="float" name="concavity_mean" id="concavity_mean">
+
+        <br><br>
+        <label for="concave_points_mean">concave_points_mean</label>
+        <input type="float" name="concave_points_mean" id="concave_points_mean">
+
+        <br><br>
+        <label for="radius_worst">radius_worst</label>
+        <input type="float" name="radius_worst" id="radius_worst">
+
+        <br><br>
+        <label for="perimeter_worst">perimeter_worst</label>
+        <input type="float" name="perimeter_worst" id="perimeter_worst">
+
+        <br><br>
+        <label for="area_worst ">area_worst </label>
+        <input type="float" name="area_worst" id="area_worst">
+
+        <br><br>
+        <label for="concavity_worst ">concavity_worst</label>
+        <input type="float" name="concavity_worst" id="concavity_worst">
+
+        
+        <br><br>
+        <label for="concave_points_worst ">concave_points_worst</label>
+        <input type="float" name="concave_points_worst" id="concave_points_worst">
+        
+        <br><br>
+    
+      <input type="submit" value="Predict Cancer Type">
+    </form>
+
+    <br><hr>
+    {% if diagnosis: %}
+         <p>The patient's breast cancer type should be :</p>
+          <h3> {{diagnosis}} </h3> 
+    {% endif %}
+
+    
+  </div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
